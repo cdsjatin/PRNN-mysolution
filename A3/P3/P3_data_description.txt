@@ -1,0 +1,10 @@
+The dataset contains 10-d samples generated from 
+
+mu_1 = zeros(10,1)
+mu_2 = 2*ones(10,1);
+sigma= 2*I+A
+where A is 10x10 matrix with all its elements are 1
+p(x|y=1)=Gaussian(mu_1,sigma)
+p(x|y=-1)=Gaussian(mu_2,sigma)
+
+

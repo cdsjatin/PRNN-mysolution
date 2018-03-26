@@ -1,0 +1,9 @@
+The dataset contains 2-d samples generated from 
+
+mu_1 = [0 0]'
+mu_2 = [3 3]'
+sigma= [4 0; 0 4];
+p(x|y=1)=Gaussian(mu_1,sigma)
+p(x|y=-1)=Gaussian(mu_2,sigma)
+
+

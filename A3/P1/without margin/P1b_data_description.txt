@@ -1,0 +1,9 @@
+100 points were sampled from [-1 1]^10 cuboid.
+The hyperplane with parameters 
+
+w=[1 -1 1 -1 1 -1 1 -1 1 -1 ]'  b=0;
+
+is used to divide the samples into two classes.
+
+There are few points which are arbitrarily very close to the separating hyperplane.
+
